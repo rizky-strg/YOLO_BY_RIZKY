@@ -1,0 +1,4 @@
+eksperimen,perubahan,pretrained,mAP50,mAP50-95,precision,recall,inferensi_ms,waktu_latih_menit,imgsz,bobot
+E1_pretrained,-,True,0.9876,0.7601,0.9743,0.9808,61.1,18.48,416,D:\Downloads\PBL_Vision_Project\03_P3_P4_Pj1_YOLO\hasil_praktik\E1_pretrained\weights\best.pt
+E2_scratch,-,False,0.6358,0.31,0.5771,0.6798,51.13,18.2,416,D:\Downloads\PBL_Vision_Project\03_P3_P4_Pj1_YOLO\hasil_praktik\E2_scratch\weights\best.pt
+E3_tuning,imgsz=640,True,0.9927,0.7895,0.9178,0.9961,126.52,38.37,640,D:\Downloads\PBL_Vision_Project\03_P3_P4_Pj1_YOLO\hasil_praktik\E3_tuning\weights\best.pt

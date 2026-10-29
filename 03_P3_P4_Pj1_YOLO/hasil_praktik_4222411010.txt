@@ -1,0 +1,17 @@
+==============================================================================
+  PRAKTIK TERPADU MINGGU 4-7 - RET503
+==============================================================================
+  NIM / Nama    : 4222411010 / Rizky Putra Ramadhan
+  Waktu         : 29-10-2026 17:58:25
+  Komputer/user : DESKTOP-AJH65KD / HP
+  Dataset       : dataset_v1  (sidik jari label: A1B769384E89)
+  Pengaturan    : model yolov8n, epochs 15, imgsz 416, batch 16
+==============================================================================
+  Eksperimen     Perubahan        mAP50  mAP50-95      P      R     ms   menit
+  E1_pretrained  -                0.988     0.760  0.974  0.981   61.1    18.5
+  E2_scratch     -                0.636     0.310  0.577  0.680   51.1    18.2
+  E3_tuning      imgsz=640        0.993     0.789  0.918  0.996  126.5    38.4
+==============================================================================
+  Model terpilih (mAP50-95 val tertinggi): E3_tuning
+  Hasil di data TEST (sekali saja)       : mAP50 0.973 | mAP50-95 0.765
+==============================================================================

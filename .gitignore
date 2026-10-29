@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ultralytics & Temp runs
+runs/
+**/runs/
+03_P3_P4_Pj1_YOLO/hasil_balik/
+03_P3_P4_Pj1_YOLO/dataset_yolo/.label_state.txt
+03_P3_P4_Pj1_YOLO/dataset_yolo/cek_visual/
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

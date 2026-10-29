@@ -1,0 +1,10 @@
+path: D:/Downloads/PBL_Vision_Project/03_P3_P4_Pj1_YOLO/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Balok-Hijau
+  1: Balok-Hitam
+  2: Balok-Merah
+  3: Balok-Merah-Marun
+  4: Balok-Putih
