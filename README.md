@@ -1,5 +1,5 @@
 # 🤖 Sistem Persepsi Visi Robotika Terpadu: Kalibrasi Kamera Real-Time & Deteksi Objek PBL Berbasis YOLOv8
-**Mata Kuliah: RET503 - Sistem Persepsi Komputer & Robotika**  
+**Mata Kuliah: RET503 - Computer Vision & Deep Learning**  
 **Program Studi Teknologi Rekayasa Robotika · Jurusan Teknik Elektro · Politeknik Negeri Batam**
 
 ---
